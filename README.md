@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm a software engineer at [Bacancy Technology](https://www.bacancytechnology.com/) in Ahmedabad, IN 🌆
+I am a dedicated Software Engineer with 3.8+ years of experience specializing in mobile
+development, with a strong focus on designing and delivering polished, high-quality applications. My
+expertise lies in Flutter/Dart, where I combine technical proficiency with an eye for detail to craft
+seamless and visually appealing user experiences.
 
 - 👀 I’m interested in Dart and Flutter
 - 💞️ I’m looking to collaborate on Open Source Project.
