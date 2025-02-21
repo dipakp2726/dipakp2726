@@ -1,77 +1,60 @@
 # 👋 Hi, I'm Dipak Prajapati
 
-Senior Software Engineer with 3.8+ years of experience specializing in Flutter mobile development. I'm passionate about creating polished, high-performance applications and contributing to open-source projects.
+Senior Software Engineer specializing in Flutter/Dart development with 4+ years of experience building scalable, cross-platform mobile applications. Currently leading technical architecture at All I Want Inc, focusing on innovative e-commerce solutions.
 
-## 🚀 Professional Overview
+## 🛠️ Technical Expertise
 
-Currently working as a Senior Software Engineer at All I Want Inc., California (Remote), where I focus on full-stack mobile development using Flutter. I specialize in designing and delivering sophisticated mobile applications with emphasis on performance optimization and seamless user experiences.
+- **Languages**: Dart, JavaScript, Python, C++, C, PHP
+- **Mobile Development**: Flutter, FlutterFlow
+- **State Management**: Provider, Riverpod, Bloc
+- **Backend Services**: Firebase, Supabase, AWS Amplify, Appwrite, Dart Frog
+- **Database Systems**: Firebase, SQLite, Hive, SQL, SembastDB
+- **DevOps**: GitHub Actions, Codemagic, Xcode Cloud, Fastlane
+- **Development Tools**: Android Studio, VS Code, IntelliJ IDEA, Xcode
 
-## 💼 Recent Projects
+## 🚀 Featured Projects
 
-### All I Want Marketplace
-A comprehensive e-commerce platform available on both iOS and Android
-- [iOS App Store](https://apps.apple.com/us/app/all-i-want-marketplace/id1562271527)
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.Alliwant)
+### All I Want E-commerce Platform
+A sophisticated e-commerce solution featuring:
+- Real-time price negotiation system
+- Integrated wallet and voucher management
+- Secure payment processing with Stripe
+- AI-powered product detail extraction
+- Real-time chat functionality
+- Dynamic deep linking and push notifications
+- Optimized state management with code generation
 
-Key features include:
-- Cross-platform development using Flutter with Clean Architecture
-- Integration of Stripe payments, Google Maps, and in-app purchases
-- Firebase integration for real-time chat and notifications
-- AI-powered features for product detail extraction
+### The Fishing App - DFO Compliance Solution
+An innovative marine compliance platform with:
+- Offline-first architecture using Hive database
+- Custom sync protocols for zero data loss
+- Comprehensive DFO compliance reporting
+- Unified codebase for mobile and web platforms
 
-## 🛠️ Technical Skills
+### Gold Delivery Management System
+Secure logistics platform featuring:
+- Real-time precious metal transportation tracking
+- Route optimization using Google Maps API
+- Advanced security protocols
+- Clean Architecture implementation with Bloc pattern
 
-### Languages
-- Dart
-- C/C++
-- Python
-- JavaScript
+## 🌟 Achievements
 
-### Frameworks & Tools
-- Flutter/FlutterFlow
-- CodeIgnitor
-- Firebase
-- AWS
-- GitHub Actions
-- Codemagic
-- Xcode Cloud
+- Winner of Flutter Community Hacktoberfest (2022)
+- Contributor to Flame game engine for Flutter and Dart
+- Successfully led multiple cross-platform application developments
+- Experienced in mentoring junior developers
 
-### Databases
-- Firebase
-- SQLite
-- Hive
-- SQL SemBast
-- Shared Preferences
-
-### Backend Services
-- Firebase
-- Supabase
-- AWS Amplify
-- Appwrite
-- Dart Frog
-
-## 🎓 Education
-
-- **Bachelor of Engineering in Computer Engineering**
-  - Government Engineering College, Gandhinagar
-  - CGPA: 9.05
-
-## 🏆 Achievements
-
-- Winner of Flutter Community Hacktoberfest
-- Contributor to Flame Game Engine for Flutter and Dart
-
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 - Email: dipakp2726@gmail.com
+- LinkedIn: [linkedin.com/in/dipakp2726](https://linkedin.com/in/dipakp2726)
 - GitHub: [github.com/dipakp2726](https://github.com/dipakp2726)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dipakp2726&show_icons=true&theme=radical)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakp2726&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakp2726&layout=compact&theme=radical)
 
 ---
-
-*Always eager to learn and contribute to innovative projects in the mobile development space!*
+*Open to collaboration on innovative Flutter projects and contributing to open-source initiatives.*
