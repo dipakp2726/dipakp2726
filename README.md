@@ -4,7 +4,7 @@ Senior Software Engineer specializing in Flutter/Dart development with 4+ years 
 
 ## 🛠️ Technical Expertise
 
-- **Languages**: Dart, JavaScript, Python, C++, C, PHP
+- **Languages**: Dart, Python,
 - **Mobile Development**: Flutter, FlutterFlow
 - **State Management**: Provider, Riverpod, Bloc
 - **Backend Services**: Firebase, Supabase, AWS Amplify, Appwrite, Dart Frog
